@@ -37,6 +37,18 @@ public class Menu extends AppCompatActivity {
         finish();
     }
 
+    public void vaiParaCores(View v){
+        Intent it = new Intent(Menu.this, Cores.class);
+        startActivity(it);
+        finish();
+    }
+
+    public void vaiParaEstacao(View v){
+        Intent it = new Intent(Menu.this, Estacoes.class);
+        startActivity(it);
+        finish();
+    }
+
     public void SAIR(View v){
         Intent it = new Intent(Menu.this, Menu.class);
         startActivity(it);
