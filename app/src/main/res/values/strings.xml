@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App_Ava</string>
+    <string name="Sair_App">Sair</string>
+    <string name="sel_animais">Animais</string>
+    <string name="title_animal">Animais</string>
+    <string name="txt_reinos">Reinos</string>
+    <string name="btnVoltar">Voltar ao Menu</string>
+</resources>
